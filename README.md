@@ -33,20 +33,20 @@
     <td width="50%">
       <h3 align="center">☁️ Distributed Cloud Deployment Platform</h3>
       <p align="center">
-        <a href="https://github.com/shukruth21/YOUR_REPO_NAME">
+        <a href="https://github.com/shukruth21/Vercel-clone">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <img src="https://img.shields.io/github/stars/shukruth21/YOUR_REPO_NAME?style=for-the-badge&color=yellow" />
       </p>
-      <p align="center">A Vercel-inspired deployment platform built with <strong>Node.js, Redis, and cloud storage</strong> using microservices architecture. <strong>198+ GitHub stars.</strong></p>
+      <p align="center">A Vercel-inspired deployment platform built with <strong>Node.js, Redis, and cloud storage</strong> using microservices architecture.</p>
     </td>
     <td width="50%">
       <h3 align="center">🚇 Real-Time MBTA Transit Tracker</h3>
       <p align="center">
-        <a href="https://github.com/shukruth21/YOUR_REPO_NAME">
+        <a href="https://github.com/shukruth21/MBTA-tracker">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="YOUR_LIVE_LINK">
+        <a href="https://mbta-tracker-srhz.vercel.app/">
           <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
